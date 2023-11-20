@@ -1,3 +1,9 @@
+/*
+Covid 19 Data Exploration
+
+*/
+	
+
 SELECT Location, date, total_cases, new_cases, total_deaths, population
 FROM CovidDeaths$
 ORDER BY 1,2
